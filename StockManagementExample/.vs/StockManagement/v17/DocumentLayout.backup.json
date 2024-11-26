@@ -1,0 +1,304 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\source\\repos\\StockManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B1E740-5D20-41C1-8F11-4F59A4026AC7}|StockManagement\\StockManagement.csproj|c:\\users\\dell\\source\\repos\\stockmanagement\\stockmanagement\\malzemekullan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B1E740-5D20-41C1-8F11-4F59A4026AC7}|StockManagement\\StockManagement.csproj|solutionrelative:stockmanagement\\malzemekullan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B1E740-5D20-41C1-8F11-4F59A4026AC7}|StockManagement\\StockManagement.csproj|C:\\Users\\Dell\\source\\repos\\StockManagement\\stockmanagement\\malzemekullan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1B1E740-5D20-41C1-8F11-4F59A4026AC7}|StockManagement\\StockManagement.csproj|solutionrelative:stockmanagement\\malzemekullan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B1E740-5D20-41C1-8F11-4F59A4026AC7}|StockManagement\\StockManagement.csproj|C:\\Users\\Dell\\source\\repos\\StockManagement\\stockmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B1E740-5D20-41C1-8F11-4F59A4026AC7}|StockManagement\\StockManagement.csproj|solutionrelative:stockmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B1E740-5D20-41C1-8F11-4F59A4026AC7}|StockManagement\\StockManagement.csproj|C:\\Users\\Dell\\source\\repos\\StockManagement\\stockmanagement\\apsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1B1E740-5D20-41C1-8F11-4F59A4026AC7}|StockManagement\\StockManagement.csproj|solutionrelative:stockmanagement\\apsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B1E740-5D20-41C1-8F11-4F59A4026AC7}|StockManagement\\StockManagement.csproj|C:\\Users\\Dell\\source\\repos\\StockManagement\\stockmanagement\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A1B1E740-5D20-41C1-8F11-4F59A4026AC7}|StockManagement\\StockManagement.csproj|solutionrelative:stockmanagement\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B1E740-5D20-41C1-8F11-4F59A4026AC7}|StockManagement\\StockManagement.csproj|C:\\Users\\Dell\\source\\repos\\StockManagement\\stockmanagement\\elmasoyma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B1E740-5D20-41C1-8F11-4F59A4026AC7}|StockManagement\\StockManagement.csproj|solutionrelative:stockmanagement\\elmasoyma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B1E740-5D20-41C1-8F11-4F59A4026AC7}|StockManagement\\StockManagement.csproj|C:\\Users\\Dell\\source\\repos\\StockManagement\\stockmanagement\\elmasoyma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1B1E740-5D20-41C1-8F11-4F59A4026AC7}|StockManagement\\StockManagement.csproj|solutionrelative:stockmanagement\\elmasoyma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B1E740-5D20-41C1-8F11-4F59A4026AC7}|StockManagement\\StockManagement.csproj|C:\\Users\\Dell\\source\\repos\\StockManagement\\stockmanagement\\elmasoyma.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B1E740-5D20-41C1-8F11-4F59A4026AC7}|StockManagement\\StockManagement.csproj|solutionrelative:stockmanagement\\elmasoyma.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B1E740-5D20-41C1-8F11-4F59A4026AC7}|StockManagement\\StockManagement.csproj|C:\\Users\\Dell\\source\\repos\\StockManagement\\stockmanagement\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B1E740-5D20-41C1-8F11-4F59A4026AC7}|StockManagement\\StockManagement.csproj|solutionrelative:stockmanagement\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B1E740-5D20-41C1-8F11-4F59A4026AC7}|StockManagement\\StockManagement.csproj|C:\\Users\\Dell\\source\\repos\\StockManagement\\stockmanagement\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1B1E740-5D20-41C1-8F11-4F59A4026AC7}|StockManagement\\StockManagement.csproj|solutionrelative:stockmanagement\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B1E740-5D20-41C1-8F11-4F59A4026AC7}|StockManagement\\StockManagement.csproj|C:\\Users\\Dell\\source\\repos\\StockManagement\\stockmanagement\\adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1B1E740-5D20-41C1-8F11-4F59A4026AC7}|StockManagement\\StockManagement.csproj|solutionrelative:stockmanagement\\adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B1E740-5D20-41C1-8F11-4F59A4026AC7}|StockManagement\\StockManagement.csproj|C:\\Users\\Dell\\source\\repos\\StockManagement\\stockmanagement\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B1E740-5D20-41C1-8F11-4F59A4026AC7}|StockManagement\\StockManagement.csproj|solutionrelative:stockmanagement\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B1E740-5D20-41C1-8F11-4F59A4026AC7}|StockManagement\\StockManagement.csproj|C:\\Users\\Dell\\source\\repos\\StockManagement\\stockmanagement\\malzemeekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B1E740-5D20-41C1-8F11-4F59A4026AC7}|StockManagement\\StockManagement.csproj|solutionrelative:stockmanagement\\malzemeekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B1E740-5D20-41C1-8F11-4F59A4026AC7}|StockManagement\\StockManagement.csproj|C:\\Users\\Dell\\source\\repos\\StockManagement\\stockmanagement\\malzemeekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1B1E740-5D20-41C1-8F11-4F59A4026AC7}|StockManagement\\StockManagement.csproj|solutionrelative:stockmanagement\\malzemeekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B1E740-5D20-41C1-8F11-4F59A4026AC7}|StockManagement\\StockManagement.csproj|C:\\Users\\Dell\\source\\repos\\StockManagement\\stockmanagement\\kullan\u0131c\u0131panel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1B1E740-5D20-41C1-8F11-4F59A4026AC7}|StockManagement\\StockManagement.csproj|solutionrelative:stockmanagement\\kullan\u0131c\u0131panel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B1E740-5D20-41C1-8F11-4F59A4026AC7}|StockManagement\\StockManagement.csproj|C:\\Users\\Dell\\source\\repos\\StockManagement\\stockmanagement\\malzemekullan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B1E740-5D20-41C1-8F11-4F59A4026AC7}|StockManagement\\StockManagement.csproj|solutionrelative:stockmanagement\\malzemekullan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B1E740-5D20-41C1-8F11-4F59A4026AC7}|StockManagement\\StockManagement.csproj|C:\\Users\\Dell\\source\\repos\\StockManagement\\stockmanagement\\kullan\u0131c\u0131panel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B1E740-5D20-41C1-8F11-4F59A4026AC7}|StockManagement\\StockManagement.csproj|solutionrelative:stockmanagement\\kullan\u0131c\u0131panel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B1E740-5D20-41C1-8F11-4F59A4026AC7}|StockManagement\\StockManagement.csproj|C:\\Users\\Dell\\source\\repos\\StockManagement\\stockmanagement\\adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B1E740-5D20-41C1-8F11-4F59A4026AC7}|StockManagement\\StockManagement.csproj|solutionrelative:stockmanagement\\adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "apsettings.json",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\StockManagement\\StockManagement\\apsettings.json",
+              "RelativeDocumentMoniker": "StockManagement\\apsettings.json",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\StockManagement\\StockManagement\\apsettings.json",
+              "RelativeToolTip": "StockManagement\\apsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-18T19:49:05.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ElmaSoyma.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\StockManagement\\StockManagement\\ElmaSoyma.cs",
+              "RelativeDocumentMoniker": "StockManagement\\ElmaSoyma.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\StockManagement\\StockManagement\\ElmaSoyma.cs",
+              "RelativeToolTip": "StockManagement\\ElmaSoyma.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T17:57:38.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\StockManagement\\StockManagement\\App.config",
+              "RelativeDocumentMoniker": "StockManagement\\App.config",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\StockManagement\\StockManagement\\App.config",
+              "RelativeToolTip": "StockManagement\\App.config",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-22T10:54:48.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ElmaSoyma.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\StockManagement\\StockManagement\\ElmaSoyma.Designer.cs",
+              "RelativeDocumentMoniker": "StockManagement\\ElmaSoyma.Designer.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\StockManagement\\StockManagement\\ElmaSoyma.Designer.cs",
+              "RelativeToolTip": "StockManagement\\ElmaSoyma.Designer.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T18:05:07.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\StockManagement\\StockManagement\\Program.cs",
+              "RelativeDocumentMoniker": "StockManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\StockManagement\\StockManagement\\Program.cs",
+              "RelativeToolTip": "StockManagement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T19:42:17.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MalzemeKullan.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\StockManagement\\StockManagement\\MalzemeKullan.cs",
+              "RelativeDocumentMoniker": "StockManagement\\MalzemeKullan.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\StockManagement\\StockManagement\\MalzemeKullan.cs [Tasar\u0131m]",
+              "RelativeToolTip": "StockManagement\\MalzemeKullan.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T06:51:03.427Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MalzemeKullan.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\StockManagement\\StockManagement\\MalzemeKullan.cs",
+              "RelativeDocumentMoniker": "StockManagement\\MalzemeKullan.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\StockManagement\\StockManagement\\MalzemeKullan.cs",
+              "RelativeToolTip": "StockManagement\\MalzemeKullan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T07:52:46.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ElmaSoyma.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\StockManagement\\StockManagement\\ElmaSoyma.cs",
+              "RelativeDocumentMoniker": "StockManagement\\ElmaSoyma.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\StockManagement\\StockManagement\\ElmaSoyma.cs [Tasar\u0131m]",
+              "RelativeToolTip": "StockManagement\\ElmaSoyma.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T16:59:07.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\StockManagement\\StockManagement\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "StockManagement\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\StockManagement\\StockManagement\\Form1.Designer.cs",
+              "RelativeToolTip": "StockManagement\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T10:19:29.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\StockManagement\\StockManagement\\Form1.cs",
+              "RelativeDocumentMoniker": "StockManagement\\Form1.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\StockManagement\\StockManagement\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "StockManagement\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T07:25:32.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminPanel.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\StockManagement\\StockManagement\\AdminPanel.cs",
+              "RelativeDocumentMoniker": "StockManagement\\AdminPanel.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\StockManagement\\StockManagement\\AdminPanel.cs [Tasar\u0131m]",
+              "RelativeToolTip": "StockManagement\\AdminPanel.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T12:35:39.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\StockManagement\\StockManagement\\Form1.cs",
+              "RelativeDocumentMoniker": "StockManagement\\Form1.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\StockManagement\\StockManagement\\Form1.cs",
+              "RelativeToolTip": "StockManagement\\Form1.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T07:27:41.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MalzemeEkle.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\StockManagement\\StockManagement\\MalzemeEkle.cs",
+              "RelativeDocumentMoniker": "StockManagement\\MalzemeEkle.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\StockManagement\\StockManagement\\MalzemeEkle.cs [Tasar\u0131m]",
+              "RelativeToolTip": "StockManagement\\MalzemeEkle.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T06:31:29.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MalzemeEkle.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\StockManagement\\StockManagement\\MalzemeEkle.cs",
+              "RelativeDocumentMoniker": "StockManagement\\MalzemeEkle.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\StockManagement\\StockManagement\\MalzemeEkle.cs",
+              "RelativeToolTip": "StockManagement\\MalzemeEkle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T07:01:07.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Kullan\u0131c\u0131Panel.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\StockManagement\\StockManagement\\Kullan\u0131c\u0131Panel.cs",
+              "RelativeDocumentMoniker": "StockManagement\\Kullan\u0131c\u0131Panel.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\StockManagement\\StockManagement\\Kullan\u0131c\u0131Panel.cs [Tasar\u0131m]",
+              "RelativeToolTip": "StockManagement\\Kullan\u0131c\u0131Panel.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T12:35:14.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MalzemeKullan.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\StockManagement\\StockManagement\\MalzemeKullan.Designer.cs",
+              "RelativeDocumentMoniker": "StockManagement\\MalzemeKullan.Designer.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\StockManagement\\StockManagement\\MalzemeKullan.Designer.cs",
+              "RelativeToolTip": "StockManagement\\MalzemeKullan.Designer.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAQwGUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T08:53:47.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AdminPanel.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\StockManagement\\StockManagement\\AdminPanel.cs",
+              "RelativeDocumentMoniker": "StockManagement\\AdminPanel.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\StockManagement\\StockManagement\\AdminPanel.cs",
+              "RelativeToolTip": "StockManagement\\AdminPanel.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T17:34:03.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Kullan\u0131c\u0131Panel.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\StockManagement\\StockManagement\\Kullan\u0131c\u0131Panel.cs",
+              "RelativeDocumentMoniker": "StockManagement\\Kullan\u0131c\u0131Panel.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\StockManagement\\StockManagement\\Kullan\u0131c\u0131Panel.cs",
+              "RelativeToolTip": "StockManagement\\Kullan\u0131c\u0131Panel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAhwBUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T16:57:16.459Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
